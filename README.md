@@ -3,24 +3,22 @@
 This is a raw demo / proof-of-concept for a Windows 11 browser simulation. 
 It is a generic project and strictly a test environment containing HTML versions and experiments.
 
-## ⚠️ Usage & Credit
+## ⚠️ Permissions & License
 
-You can do whatever you want with this code (fork it, break it, learn from it).
+**This project is free for Personal & Educational Use.**
+
+Because this is a demo using Microsoft assets, the following rules apply:
+
+1.  ✅ **You CAN:** Download, modify, and use this code for learning or fun.
+2.  ❌ **You CANNOT:** Sell this project or use it for any commercial purpose.
+3.  ❌ **You CANNOT:** Claim ownership of the Microsoft assets (icons/logos).
 
 **My only request:** If you use this code, **please credit me**.
 
 > **Original Author:** themarvelousegg@gmail.com
 
-## ⚖️ Legal & License
+## ⚖️ Disclaimer
 
-**Code License:** The source code (HTML, CSS, JS) is licensed under the **MIT License**.
-
-**⚠️ Microsoft Assets Disclaimer:**
-This project contains assets (icons, wallpapers, logos) that are the intellectual property of **Microsoft Corporation**.
-* These assets are **NOT** covered by the MIT License.
-* They are used here for educational/demonstration purposes only under "Fair Use" principles.
-* **Microsoft, Windows, and the Windows Logo are trademarks of the Microsoft group of companies.** * I am not affiliated with, endorsed by, or connected to Microsoft.
-
-* **Status:** This is a **DEMO**. It is provided "as is."
-* **Liability:** I am not responsible for how you use this.
+* **Microsoft Assets:** This project contains icons and imagery owned by **Microsoft Corporation**. I do not own them; they are used here for non-commercial demonstration only.
+* **Liability:** This is provided "as is." I am not responsible if it breaks anything.
 * **AI Disclosure:** Built with the Gemini 3 Pro AI model + human guidance and debugging.
